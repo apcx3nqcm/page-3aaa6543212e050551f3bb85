@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ca57811e1d.158you.cn/sitemap.xml
